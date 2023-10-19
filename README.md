@@ -1,1 +1,2 @@
-# Workshop1
+# Git/GitHub Workshop
+
